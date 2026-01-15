@@ -55,8 +55,6 @@ The project demonstrates understanding of:
 This repository can also be used as a base application
 for QA test scenario creation and automation experiments.
 
-============================================================================================
-
 ## 🧪 Test Scenarios
 
 ### 1. Create Record
