@@ -11,7 +11,7 @@ and clear user interface.
 The application is intended as a practical example of how mobile apps manage
 persistent data without relying on cloud services. There's also a video about it on my youtube channel! 
 
-[![SQLiteExampleApp – Development Walkthrough](https://img.youtube.com/vi/OW3Q4aDfwLk&t/0.jpg)](https://www.youtube.com/watch?v=OW3Q4aDfwLk&t)
+[![SQLiteExampleApp – Development Walkthrough](https://img.youtube.com/vi/OW3Q4aDfwLk/0.jpg)](https://www.youtube.com/watch?v=OW3Q4aDfwLk&t)
 
 ## ✨ Features
 - Create new records
