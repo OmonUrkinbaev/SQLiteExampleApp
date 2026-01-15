@@ -13,6 +13,13 @@ persistent data without relying on cloud services. There's also a video about it
 
 [![SQLiteExampleApp – Development Walkthrough](https://img.youtube.com/vi/OW3Q4aDfwLk/0.jpg)](https://www.youtube.com/watch?v=OW3Q4aDfwLk&t)
 
+### Video Highlights
+- Project setup and structure
+- SQLite database creation
+- CRUD operations implementation
+- UI and database integration
+- Data persistence demonstration
+
 ## ✨ Features
 - Create new records
 - Read stored records from SQLite database
@@ -84,3 +91,5 @@ for QA test scenario creation and automation experiments.
 - Very long text input
 - Special characters input
 - Rapid create/delete actions
+
+🔗 Full development video: https://www.youtube.com/watch?v=OW3Q4aDfwLk
