@@ -3,7 +3,7 @@
 Android application demonstrating local data persistence using SQLite
 with full CRUD (Create, Read, Update, Delete) functionality.
 
-## 📱 Project Overview
+## Project Overview
 This project showcases working with a local SQLite database in an Android application.
 It focuses on data storage, retrieval, and manipulation while maintaining a simple
 and clear user interface.
@@ -20,32 +20,32 @@ persistent data without relying on cloud services. There's also a video about it
 - UI and database integration
 - Data persistence demonstration
 
-## ✨ Features
+## Features
 - Create new records
 - Read stored records from SQLite database
 - Update existing records
 - Delete records
 - Data persistence after app restart
 
-## 🛠 Tech Stack
+## Tech Stack
 - Java
 - Android SDK
 - SQLite
 - Android Studio
 
-## 🧩 Architecture
+## Architecture
 - Basic layered approach
 - UI layer interacts with database helper
 - SQLiteOpenHelper used for database management
 
-## 🧪 Testing Focus
+## Testing Focus
 This application can be used as a demo project for:
 - Manual testing
 - CRUD validation
 - Data persistence testing
 - Edge case handling
 
-## 🚀 Use Case
+## Use Case
 The project demonstrates understanding of:
 - Local databases
 - Data persistence
@@ -55,7 +55,7 @@ The project demonstrates understanding of:
 This repository can also be used as a base application
 for QA test scenario creation and automation experiments.
 
-## 🧪 Test Scenarios
+## Test Scenarios
 
 ### 1. Create Record
 - Add a new record with valid data
@@ -90,4 +90,4 @@ for QA test scenario creation and automation experiments.
 - Special characters input
 - Rapid create/delete actions
 
-🔗 Full development video: https://www.youtube.com/watch?v=OW3Q4aDfwLk
+## Full development video: https://www.youtube.com/watch?v=OW3Q4aDfwLk
